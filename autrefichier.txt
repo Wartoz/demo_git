@@ -1,3 +1,3 @@
 est un fichier texte de qualité
 et on le modifie via github 
-z c'est cool !²
+z c'est cool !
